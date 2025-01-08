@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url-here" alt="Banner Image" width="100%">
+  <img src="[https://your-image-url-here](https://github.com/chayon1001/chayon1001/blob/main/chayon_1-removebg-preview.png)" alt="Banner Image" width="100%">
 </div>
 
 ###
