@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="216" src="https://i.imgflip.com/65efzo.gif"  />
+  <img src="https://your-image-url-here" alt="Banner Image" width="100%">
 </div>
 
 ###
