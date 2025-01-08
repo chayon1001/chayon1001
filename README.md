@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chayon1001/chayon1001/main/Add%20a%20heading.png" alt="Banner Image" width="100%">
+  <img src="https://raw.githubusercontent.com/chayon1001/chayon1001/main/Add%20a%20heading%20(2).png" alt="Banner Image" width="100%">
 </div>
+
 
 
 ###
