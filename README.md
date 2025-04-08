@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
